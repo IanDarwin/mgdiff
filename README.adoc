@@ -1,0 +1,11 @@
+= mgdiff - X Windows diff viewer
+
+The program is another X-based diff(1) related tool.
+
+See the accompanying man page for details.
+
+This was written in 1994 by Daniel Williams.
+
+I had it as a tar file on my web server for years
+but moved it to github in 2022 to make it availalble,
+primarily to open-source archaeologists.
